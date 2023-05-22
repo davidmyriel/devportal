@@ -4,8 +4,8 @@
   "permalink": "/docs/category/client-libraries",
   "navigation": {
     "previous": {
-      "title": "API Specification",
-      "permalink": "/docs/apispec"
+      "title": "Congratulations!",
+      "permalink": "/docs/integrations/congratulations"
     },
     "next": {
       "title": "Python Client",

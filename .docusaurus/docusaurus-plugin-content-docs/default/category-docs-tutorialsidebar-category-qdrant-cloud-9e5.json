@@ -1,0 +1,15 @@
+{
+  "title": "Qdrant Cloud",
+  "slug": "/category/qdrant-cloud",
+  "permalink": "/docs/category/qdrant-cloud",
+  "navigation": {
+    "previous": {
+      "title": "Add Vectors",
+      "permalink": "/docs/gettingstarted/install_qdrant"
+    },
+    "next": {
+      "title": "Backups",
+      "permalink": "/docs/cloud/backups"
+    }
+  }
+}

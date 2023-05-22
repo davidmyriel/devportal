@@ -1,7 +1,7 @@
 {
   "unversionedId": "gettingstarted/install_qdrant",
   "id": "gettingstarted/install_qdrant",
-  "title": "Install Qdrant",
+  "title": "Add Vectors",
   "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
   "source": "@site/docs/gettingstarted/install_qdrant.md",
   "sourceDirName": "gettingstarted",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Quick Start",
-    "permalink": "/docs/gettingstarted/quick_start"
+    "title": "Complete Setup",
+    "permalink": "/docs/gettingstarted/qdrant_101"
   },
   "next": {
-    "title": "API Specification",
-    "permalink": "/docs/apispec"
+    "title": "Qdrant Cloud",
+    "permalink": "/docs/category/qdrant-cloud"
   }
 }

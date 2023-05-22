@@ -1,0 +1,7 @@
+{
+  "label": "Qdrant Cloud",
+  "position": 2,
+  "link": {
+    "type": "generated-index"
+  }
+}

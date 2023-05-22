@@ -99,17 +99,23 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '7e8'),
+    component: ComponentCreator('/docs', 'b9e'),
     routes: [
       {
-        path: '/docs/apispec',
-        component: ComponentCreator('/docs/apispec', '7d8'),
+        path: '/docs/benchmarks',
+        component: ComponentCreator('/docs/benchmarks', '9ba'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/docs/category/client-libraries',
         component: ComponentCreator('/docs/category/client-libraries', '3c3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/category/concepts',
+        component: ComponentCreator('/docs/category/concepts', 'ab6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -126,14 +132,116 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/qdrant-manual',
-        component: ComponentCreator('/docs/category/qdrant-manual', 'f75'),
+        path: '/docs/category/qdrant-cloud',
+        component: ComponentCreator('/docs/category/qdrant-cloud', '80f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/docs/category/tutorials',
         component: ComponentCreator('/docs/category/tutorials', 'f40'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/cloud/backups',
+        component: ComponentCreator('/docs/cloud/backups', '65f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/cloud/capacity',
+        component: ComponentCreator('/docs/cloud/capacity', '139'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/cloud/scaling',
+        component: ComponentCreator('/docs/cloud/scaling', 'aba'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Administration',
+        component: ComponentCreator('/docs/concepts/Administration', '035'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Collections',
+        component: ComponentCreator('/docs/concepts/Collections', '8b8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Configuration',
+        component: ComponentCreator('/docs/concepts/Configuration', 'c77'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Distributed_Deployment',
+        component: ComponentCreator('/docs/concepts/Distributed_Deployment', 'd04'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Filtering',
+        component: ComponentCreator('/docs/concepts/Filtering', '7ae'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Indexing',
+        component: ComponentCreator('/docs/concepts/Indexing', '8ee'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Optimizer',
+        component: ComponentCreator('/docs/concepts/Optimizer', '83c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Payload',
+        component: ComponentCreator('/docs/concepts/Payload', '422'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Points',
+        component: ComponentCreator('/docs/concepts/Points', 'bd7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Quantization',
+        component: ComponentCreator('/docs/concepts/Quantization', 'aff'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Search',
+        component: ComponentCreator('/docs/concepts/Search', '046'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Snapshots',
+        component: ComponentCreator('/docs/concepts/Snapshots', '087'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Storage',
+        component: ComponentCreator('/docs/concepts/Storage', '271'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/concepts/Telemetry',
+        component: ComponentCreator('/docs/concepts/Telemetry', '145'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -210,92 +318,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/manual/administration',
-        component: ComponentCreator('/docs/manual/administration', '0f6'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/collections',
-        component: ComponentCreator('/docs/manual/collections', 'a9d'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/configuration',
-        component: ComponentCreator('/docs/manual/configuration', 'a93'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/distributed_deployment',
-        component: ComponentCreator('/docs/manual/distributed_deployment', '254'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/filtering',
-        component: ComponentCreator('/docs/manual/filtering', 'bbb'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/indexing',
-        component: ComponentCreator('/docs/manual/indexing', '4c2'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/optimizer',
-        component: ComponentCreator('/docs/manual/optimizer', '255'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/payload',
-        component: ComponentCreator('/docs/manual/payload', 'f71'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/points',
-        component: ComponentCreator('/docs/manual/points', '05e'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/quantization',
-        component: ComponentCreator('/docs/manual/quantization', 'ea4'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/search',
-        component: ComponentCreator('/docs/manual/search', '5ea'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/snapshots',
-        component: ComponentCreator('/docs/manual/snapshots', 'd83'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/storage',
-        component: ComponentCreator('/docs/manual/storage', 'ddd'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/docs/manual/telemetry',
-        component: ComponentCreator('/docs/manual/telemetry', 'b81'),
+        path: '/docs/reference',
+        component: ComponentCreator('/docs/reference', 'bc7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/docs/releasenotes',
         component: ComponentCreator('/docs/releasenotes', '2ab'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/docs/techsupport',
+        component: ComponentCreator('/docs/techsupport', '3f9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

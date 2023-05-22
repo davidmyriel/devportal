@@ -1,0 +1,23 @@
+{
+  "unversionedId": "techsupport",
+  "id": "techsupport",
+  "title": "Technical Support",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/techsupport.md",
+  "sourceDirName": ".",
+  "slug": "/techsupport",
+  "permalink": "/docs/techsupport",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/techsupport.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Release Notes",
+    "permalink": "/docs/releasenotes"
+  }
+}

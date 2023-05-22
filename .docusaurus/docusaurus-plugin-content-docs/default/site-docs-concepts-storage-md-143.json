@@ -1,0 +1,27 @@
+{
+  "unversionedId": "concepts/Storage",
+  "id": "concepts/Storage",
+  "title": "Storage",
+  "description": "All data within one collection is divided into segments.",
+  "source": "@site/docs/concepts/Storage.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/Storage",
+  "permalink": "/docs/concepts/Storage",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Storage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Optimizer",
+    "permalink": "/docs/concepts/Optimizer"
+  },
+  "next": {
+    "title": "Indexing",
+    "permalink": "/docs/concepts/Indexing"
+  }
+}

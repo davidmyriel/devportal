@@ -1,0 +1,27 @@
+{
+  "unversionedId": "concepts/Configuration",
+  "id": "concepts/Configuration",
+  "title": "Configuration",
+  "description": "To change or correct Qdrant's behavior, default collection settings, and network interface parameters, you can use the configuration file.",
+  "source": "@site/docs/concepts/Configuration.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/Configuration",
+  "permalink": "/docs/concepts/Configuration",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Configuration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Telemetry",
+    "permalink": "/docs/concepts/Telemetry"
+  },
+  "next": {
+    "title": "Administration",
+    "permalink": "/docs/concepts/Administration"
+  }
+}

@@ -4,8 +4,8 @@
   "permalink": "/docs/category/tutorials",
   "navigation": {
     "previous": {
-      "title": "administration",
-      "permalink": "/docs/manual/administration"
+      "title": "Administration",
+      "permalink": "/docs/concepts/Administration"
     },
     "next": {
       "title": "Manage Docs Versions",

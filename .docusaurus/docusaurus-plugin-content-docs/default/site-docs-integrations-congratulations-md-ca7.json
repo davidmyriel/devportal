@@ -21,7 +21,7 @@
     "permalink": "/docs/integrations/deploy-your-site"
   },
   "next": {
-    "title": "Release Notes",
-    "permalink": "/docs/releasenotes"
+    "title": "Client Libraries",
+    "permalink": "/docs/category/client-libraries"
   }
 }

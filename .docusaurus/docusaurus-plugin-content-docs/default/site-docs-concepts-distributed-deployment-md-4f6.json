@@ -1,0 +1,27 @@
+{
+  "unversionedId": "concepts/Distributed Deployment",
+  "id": "concepts/Distributed Deployment",
+  "title": "Distributed Deployment",
+  "description": "Since version v0.8.0 Qdrant supports a distributed deployment mode.",
+  "source": "@site/docs/concepts/Distributed Deployment.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/Distributed Deployment",
+  "permalink": "/docs/concepts/Distributed Deployment",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Distributed Deployment.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Indexing",
+    "permalink": "/docs/concepts/Indexing"
+  },
+  "next": {
+    "title": "snapshots",
+    "permalink": "/docs/concepts/snapshots"
+  }
+}

@@ -186,20 +186,24 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-7e8": {
+  "/docs-b9e": {
     "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
       "plugin": "plugin---docsdcb-850"
     },
     "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/apispec-7d8": {
+  "/docs/benchmarks-9ba": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-apispecebc-b2e"
+    "content": "content---docs-benchmarkscaf-885"
   },
   "/docs/category/client-libraries-3c3": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-client-libraries-76-a-6df"
+  },
+  "/docs/category/concepts-ab6": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-concepts-93-e-a37"
   },
   "/docs/category/getting-started-01f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -209,13 +213,81 @@
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-integrations-4-f-2-779"
   },
-  "/docs/category/qdrant-manual-f75": {
+  "/docs/category/qdrant-cloud-80f": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-qdrant-manuala-0-e-221"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-qdrant-cloudd-34-e8a"
   },
   "/docs/category/tutorials-f40": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorials-4-cd-b44"
+  },
+  "/docs/cloud/backups-65f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cloud-backupsb-85-be6"
+  },
+  "/docs/cloud/capacity-139": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cloud-capacityb-65-195"
+  },
+  "/docs/cloud/scaling-aba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cloud-scaling-163-9da"
+  },
+  "/docs/concepts/Administration-035": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-administration-968-644"
+  },
+  "/docs/concepts/Collections-8b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-collections-880-37b"
+  },
+  "/docs/concepts/Configuration-c77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-configuration-412-ab9"
+  },
+  "/docs/concepts/Distributed_Deployment-d04": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-distributed-deployment-9-b-1-022"
+  },
+  "/docs/concepts/Filtering-7ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-filtering-8-c-4-004"
+  },
+  "/docs/concepts/Indexing-8ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-indexinga-99-40c"
+  },
+  "/docs/concepts/Optimizer-83c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-optimizer-43-c-bad"
+  },
+  "/docs/concepts/Payload-422": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-payload-5-b-3-b18"
+  },
+  "/docs/concepts/Points-bd7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-points-48-b-99f"
+  },
+  "/docs/concepts/Quantization-aff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-quantization-1-c-9-ac9"
+  },
+  "/docs/concepts/Search-046": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-search-336-05f"
+  },
+  "/docs/concepts/Snapshots-087": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-snapshots-291-06d"
+  },
+  "/docs/concepts/Storage-271": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-storage-143-ab2"
+  },
+  "/docs/concepts/Telemetry-145": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-concepts-telemetry-099-f10"
   },
   "/docs/gettingstarted/install_qdrant-fe2": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -265,65 +337,17 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-libraries-create-a-document-0-c-3-043"
   },
-  "/docs/manual/administration-0f6": {
+  "/docs/reference-bc7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-administration-990-b5a"
-  },
-  "/docs/manual/collections-a9d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-collections-60-a-a69"
-  },
-  "/docs/manual/configuration-a93": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-configuration-840-85f"
-  },
-  "/docs/manual/distributed_deployment-254": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-distributed-deploymente-30-5f6"
-  },
-  "/docs/manual/filtering-bbb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-filtering-274-948"
-  },
-  "/docs/manual/indexing-4c2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-indexing-3-d-1-62b"
-  },
-  "/docs/manual/optimizer-255": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-optimizerb-9-b-8ab"
-  },
-  "/docs/manual/payload-f71": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-payload-877-473"
-  },
-  "/docs/manual/points-05e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-points-681-8ac"
-  },
-  "/docs/manual/quantization-ea4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-quantizationf-89-7ac"
-  },
-  "/docs/manual/search-5ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-search-54-c-b54"
-  },
-  "/docs/manual/snapshots-d83": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-snapshotsf-37-4da"
-  },
-  "/docs/manual/storage-ddd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-storage-0-c-5-fba"
-  },
-  "/docs/manual/telemetry-b81": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-manual-telemetry-3-ad-896"
+    "content": "content---docs-reference-775-daf"
   },
   "/docs/releasenotes-2ab": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-releasenotes-236-53b"
+  },
+  "/docs/techsupport-3f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-techsupport-929-fe7"
   },
   "/docs/tutorials/manage-docs-versions-6e9": {
     "__comp": "__comp---theme-doc-item-178-a40",

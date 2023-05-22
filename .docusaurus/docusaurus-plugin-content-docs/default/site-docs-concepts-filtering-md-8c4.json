@@ -1,0 +1,27 @@
+{
+  "unversionedId": "concepts/Filtering",
+  "id": "concepts/Filtering",
+  "title": "Filtering",
+  "description": "Qdrant allows you to set the conditions to be used when searching or retrieving points.",
+  "source": "@site/docs/concepts/Filtering.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/Filtering",
+  "permalink": "/docs/concepts/Filtering",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Filtering.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Search",
+    "permalink": "/docs/concepts/Search"
+  },
+  "next": {
+    "title": "Optimizer",
+    "permalink": "/docs/concepts/Optimizer"
+  }
+}

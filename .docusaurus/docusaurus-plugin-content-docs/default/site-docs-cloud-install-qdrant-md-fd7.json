@@ -1,0 +1,27 @@
+{
+  "unversionedId": "cloud/install_qdrant",
+  "id": "cloud/install_qdrant",
+  "title": "Add Vectors",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/cloud/install_qdrant.md",
+  "sourceDirName": "cloud",
+  "slug": "/cloud/install_qdrant",
+  "permalink": "/docs/cloud/install_qdrant",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/cloud/install_qdrant.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Complete Setup",
+    "permalink": "/docs/cloud/qdrant_101"
+  },
+  "next": {
+    "title": "API Reference",
+    "permalink": "/docs/reference"
+  }
+}

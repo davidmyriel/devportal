@@ -1,7 +1,7 @@
 {
   "unversionedId": "gettingstarted/qdrant_101",
   "id": "gettingstarted/qdrant_101",
-  "title": "Qdrant 101",
+  "title": "Complete Setup",
   "description": "Documents are groups of pages connected through:",
   "source": "@site/docs/gettingstarted/qdrant_101.md",
   "sourceDirName": "gettingstarted",
@@ -11,17 +11,17 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gettingstarted/qdrant_101.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 1,
+  "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 2
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/docs/category/getting-started"
-  },
-  "next": {
     "title": "Quick Start",
     "permalink": "/docs/gettingstarted/quick_start"
+  },
+  "next": {
+    "title": "Add Vectors",
+    "permalink": "/docs/gettingstarted/install_qdrant"
   }
 }

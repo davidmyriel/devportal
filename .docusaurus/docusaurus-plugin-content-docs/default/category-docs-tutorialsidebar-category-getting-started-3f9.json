@@ -4,8 +4,8 @@
   "permalink": "/docs/category/getting-started",
   "navigation": {
     "next": {
-      "title": "Qdrant 101",
-      "permalink": "/docs/gettingstarted/qdrant_101"
+      "title": "Quick Start",
+      "permalink": "/docs/gettingstarted/quick_start"
     }
   }
 }

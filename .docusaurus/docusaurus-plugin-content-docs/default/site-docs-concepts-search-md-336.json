@@ -1,0 +1,27 @@
+{
+  "unversionedId": "concepts/Search",
+  "id": "concepts/Search",
+  "title": "Search",
+  "description": "Similarity search",
+  "source": "@site/docs/concepts/Search.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/Search",
+  "permalink": "/docs/concepts/Search",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Search.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Points",
+    "permalink": "/docs/concepts/Points"
+  },
+  "next": {
+    "title": "Filtering",
+    "permalink": "/docs/concepts/Filtering"
+  }
+}

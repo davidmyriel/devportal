@@ -20,16 +20,70 @@
           "contentPathLocalized": "/Users/errant/Desktop/devportal/i18n/en/docusaurus-plugin-content-docs/current",
           "docs": [
             {
-              "unversionedId": "apispec",
-              "id": "apispec",
-              "title": "API Specification",
+              "unversionedId": "benchmarks",
+              "id": "benchmarks",
+              "title": "Benchmarks",
               "description": "Let's discover Docusaurus in less than 5 minutes.",
-              "source": "@site/docs/apispec.md",
+              "source": "@site/docs/benchmarks.md",
               "sourceDirName": ".",
-              "slug": "/apispec",
-              "permalink": "/docs/apispec",
+              "slug": "/benchmarks",
+              "permalink": "/docs/benchmarks",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apispec.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/benchmarks.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "API Reference",
+                "permalink": "/docs/reference"
+              },
+              "next": {
+                "title": "Release Notes",
+                "permalink": "/docs/releasenotes"
+              }
+            },
+            {
+              "unversionedId": "cloud/backups",
+              "id": "cloud/backups",
+              "title": "Backups",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/cloud/backups.md",
+              "sourceDirName": "cloud",
+              "slug": "/cloud/backups",
+              "permalink": "/docs/cloud/backups",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/cloud/backups.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Qdrant Cloud",
+                "permalink": "/docs/category/qdrant-cloud"
+              },
+              "next": {
+                "title": "Capacity",
+                "permalink": "/docs/cloud/capacity"
+              }
+            },
+            {
+              "unversionedId": "cloud/capacity",
+              "id": "cloud/capacity",
+              "title": "Capacity",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/cloud/capacity.md",
+              "sourceDirName": "cloud",
+              "slug": "/cloud/capacity",
+              "permalink": "/docs/cloud/capacity",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/cloud/capacity.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -38,18 +92,423 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Install Qdrant",
-                "permalink": "/docs/gettingstarted/install_qdrant"
+                "title": "Backups",
+                "permalink": "/docs/cloud/backups"
               },
               "next": {
-                "title": "Client Libraries",
-                "permalink": "/docs/category/client-libraries"
+                "title": "Scaling",
+                "permalink": "/docs/cloud/scaling"
+              }
+            },
+            {
+              "unversionedId": "cloud/scaling",
+              "id": "cloud/scaling",
+              "title": "Scaling",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/cloud/scaling.md",
+              "sourceDirName": "cloud",
+              "slug": "/cloud/scaling",
+              "permalink": "/docs/cloud/scaling",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/cloud/scaling.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Capacity",
+                "permalink": "/docs/cloud/capacity"
+              },
+              "next": {
+                "title": "Concepts",
+                "permalink": "/docs/category/concepts"
+              }
+            },
+            {
+              "unversionedId": "concepts/Administration",
+              "id": "concepts/Administration",
+              "title": "Administration",
+              "description": "Qdrant exposes administration tools which enable to modify at runtime the behavior of a qdrant instance without changing its configuration manually.",
+              "source": "@site/docs/concepts/Administration.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Administration",
+              "permalink": "/docs/concepts/Administration",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Administration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 14,
+              "frontMatter": {
+                "sidebar_position": 14
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Configuration",
+                "permalink": "/docs/concepts/Configuration"
+              },
+              "next": {
+                "title": "Tutorials",
+                "permalink": "/docs/category/tutorials"
+              }
+            },
+            {
+              "unversionedId": "concepts/Collections",
+              "id": "concepts/Collections",
+              "title": "Collections",
+              "description": "Collections",
+              "source": "@site/docs/concepts/Collections.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Collections",
+              "permalink": "/docs/concepts/Collections",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Collections.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Concepts",
+                "permalink": "/docs/category/concepts"
+              },
+              "next": {
+                "title": "Payload",
+                "permalink": "/docs/concepts/Payload"
+              }
+            },
+            {
+              "unversionedId": "concepts/Configuration",
+              "id": "concepts/Configuration",
+              "title": "Configuration",
+              "description": "To change or correct Qdrant's behavior, default collection settings, and network interface parameters, you can use the configuration file.",
+              "source": "@site/docs/concepts/Configuration.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Configuration",
+              "permalink": "/docs/concepts/Configuration",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Configuration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "sidebar_position": 13
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Telemetry",
+                "permalink": "/docs/concepts/Telemetry"
+              },
+              "next": {
+                "title": "Administration",
+                "permalink": "/docs/concepts/Administration"
+              }
+            },
+            {
+              "unversionedId": "concepts/Distributed_Deployment",
+              "id": "concepts/Distributed_Deployment",
+              "title": "Distributed_Deployment",
+              "description": "Since version v0.8.0 Qdrant supports a distributed deployment mode.",
+              "source": "@site/docs/concepts/Distributed_Deployment.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Distributed_Deployment",
+              "permalink": "/docs/concepts/Distributed_Deployment",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Distributed_Deployment.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Indexing",
+                "permalink": "/docs/concepts/Indexing"
+              },
+              "next": {
+                "title": "Snapshots",
+                "permalink": "/docs/concepts/Snapshots"
+              }
+            },
+            {
+              "unversionedId": "concepts/Filtering",
+              "id": "concepts/Filtering",
+              "title": "Filtering",
+              "description": "Qdrant allows you to set the conditions to be used when searching or retrieving points.",
+              "source": "@site/docs/concepts/Filtering.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Filtering",
+              "permalink": "/docs/concepts/Filtering",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Filtering.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Search",
+                "permalink": "/docs/concepts/Search"
+              },
+              "next": {
+                "title": "Optimizer",
+                "permalink": "/docs/concepts/Optimizer"
+              }
+            },
+            {
+              "unversionedId": "concepts/Indexing",
+              "id": "concepts/Indexing",
+              "title": "Indexing",
+              "description": "A key feature of Qdrant is the effective combination of vector and traditional indexes. It is essential to have this because for vector search to work effectively with filters, having vector index only is not enough. In simpler terms, a vector index speeds up vector search, and payload indexes speed up filtering.",
+              "source": "@site/docs/concepts/Indexing.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Indexing",
+              "permalink": "/docs/concepts/Indexing",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Indexing.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Storage",
+                "permalink": "/docs/concepts/Storage"
+              },
+              "next": {
+                "title": "Distributed_Deployment",
+                "permalink": "/docs/concepts/Distributed_Deployment"
+              }
+            },
+            {
+              "unversionedId": "concepts/Optimizer",
+              "id": "concepts/Optimizer",
+              "title": "Optimizer",
+              "description": "It is much more efficient to apply changes in batches than perform each change individually, as many other databases do. Qdrant here is no exception. Since Qdrant operates with data structures that are not always easy to change, it is sometimes necessary to rebuild those structures completely.",
+              "source": "@site/docs/concepts/Optimizer.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Optimizer",
+              "permalink": "/docs/concepts/Optimizer",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Optimizer.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Filtering",
+                "permalink": "/docs/concepts/Filtering"
+              },
+              "next": {
+                "title": "Storage",
+                "permalink": "/docs/concepts/Storage"
+              }
+            },
+            {
+              "unversionedId": "concepts/Payload",
+              "id": "concepts/Payload",
+              "title": "Payload",
+              "description": "One of the significant features of Qdrant is the ability to store additional information along with vectors.",
+              "source": "@site/docs/concepts/Payload.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Payload",
+              "permalink": "/docs/concepts/Payload",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Payload.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Collections",
+                "permalink": "/docs/concepts/Collections"
+              },
+              "next": {
+                "title": "Points",
+                "permalink": "/docs/concepts/Points"
+              }
+            },
+            {
+              "unversionedId": "concepts/Points",
+              "id": "concepts/Points",
+              "title": "Points",
+              "description": "The points are the central entity that Qdrant operates with.",
+              "source": "@site/docs/concepts/Points.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Points",
+              "permalink": "/docs/concepts/Points",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Points.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Payload",
+                "permalink": "/docs/concepts/Payload"
+              },
+              "next": {
+                "title": "Search",
+                "permalink": "/docs/concepts/Search"
+              }
+            },
+            {
+              "unversionedId": "concepts/Quantization",
+              "id": "concepts/Quantization",
+              "title": "Quantization",
+              "description": "<!---What is quantization and what it used for.",
+              "source": "@site/docs/concepts/Quantization.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Quantization",
+              "permalink": "/docs/concepts/Quantization",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Quantization.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Snapshots",
+                "permalink": "/docs/concepts/Snapshots"
+              },
+              "next": {
+                "title": "Telemetry",
+                "permalink": "/docs/concepts/Telemetry"
+              }
+            },
+            {
+              "unversionedId": "concepts/Search",
+              "id": "concepts/Search",
+              "title": "Search",
+              "description": "Similarity search",
+              "source": "@site/docs/concepts/Search.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Search",
+              "permalink": "/docs/concepts/Search",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Search.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Points",
+                "permalink": "/docs/concepts/Points"
+              },
+              "next": {
+                "title": "Filtering",
+                "permalink": "/docs/concepts/Filtering"
+              }
+            },
+            {
+              "unversionedId": "concepts/Snapshots",
+              "id": "concepts/Snapshots",
+              "title": "Snapshots",
+              "description": "Available since v0.8.4",
+              "source": "@site/docs/concepts/Snapshots.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Snapshots",
+              "permalink": "/docs/concepts/Snapshots",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Snapshots.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Distributed_Deployment",
+                "permalink": "/docs/concepts/Distributed_Deployment"
+              },
+              "next": {
+                "title": "Quantization",
+                "permalink": "/docs/concepts/Quantization"
+              }
+            },
+            {
+              "unversionedId": "concepts/Storage",
+              "id": "concepts/Storage",
+              "title": "Storage",
+              "description": "All data within one collection is divided into segments.",
+              "source": "@site/docs/concepts/Storage.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Storage",
+              "permalink": "/docs/concepts/Storage",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Storage.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Optimizer",
+                "permalink": "/docs/concepts/Optimizer"
+              },
+              "next": {
+                "title": "Indexing",
+                "permalink": "/docs/concepts/Indexing"
+              }
+            },
+            {
+              "unversionedId": "concepts/Telemetry",
+              "id": "concepts/Telemetry",
+              "title": "Telemetry",
+              "description": "Qdrant collects anonymized usage statistics from users in order to improve the engine.",
+              "source": "@site/docs/concepts/Telemetry.md",
+              "sourceDirName": "concepts",
+              "slug": "/concepts/Telemetry",
+              "permalink": "/docs/concepts/Telemetry",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Telemetry.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Quantization",
+                "permalink": "/docs/concepts/Quantization"
+              },
+              "next": {
+                "title": "Configuration",
+                "permalink": "/docs/concepts/Configuration"
               }
             },
             {
               "unversionedId": "gettingstarted/install_qdrant",
               "id": "gettingstarted/install_qdrant",
-              "title": "Install Qdrant",
+              "title": "Add Vectors",
               "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
               "source": "@site/docs/gettingstarted/install_qdrant.md",
               "sourceDirName": "gettingstarted",
@@ -65,18 +524,18 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Quick Start",
-                "permalink": "/docs/gettingstarted/quick_start"
+                "title": "Complete Setup",
+                "permalink": "/docs/gettingstarted/qdrant_101"
               },
               "next": {
-                "title": "API Specification",
-                "permalink": "/docs/apispec"
+                "title": "Qdrant Cloud",
+                "permalink": "/docs/category/qdrant-cloud"
               }
             },
             {
               "unversionedId": "gettingstarted/qdrant_101",
               "id": "gettingstarted/qdrant_101",
-              "title": "Qdrant 101",
+              "title": "Complete Setup",
               "description": "Documents are groups of pages connected through:",
               "source": "@site/docs/gettingstarted/qdrant_101.md",
               "sourceDirName": "gettingstarted",
@@ -86,18 +545,18 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gettingstarted/qdrant_101.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 1,
+              "sidebarPosition": 2,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 2
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Getting Started",
-                "permalink": "/docs/category/getting-started"
-              },
-              "next": {
                 "title": "Quick Start",
                 "permalink": "/docs/gettingstarted/quick_start"
+              },
+              "next": {
+                "title": "Add Vectors",
+                "permalink": "/docs/gettingstarted/install_qdrant"
               }
             },
             {
@@ -113,18 +572,18 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gettingstarted/quick_start.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 2,
+              "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 2
+                "sidebar_position": 1
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Qdrant 101",
-                "permalink": "/docs/gettingstarted/qdrant_101"
+                "title": "Getting Started",
+                "permalink": "/docs/category/getting-started"
               },
               "next": {
-                "title": "Install Qdrant",
-                "permalink": "/docs/gettingstarted/install_qdrant"
+                "title": "Complete Setup",
+                "permalink": "/docs/gettingstarted/qdrant_101"
               }
             },
             {
@@ -150,8 +609,8 @@
                 "permalink": "/docs/integrations/deploy-your-site"
               },
               "next": {
-                "title": "Release Notes",
-                "permalink": "/docs/releasenotes"
+                "title": "Client Libraries",
+                "permalink": "/docs/category/client-libraries"
               }
             },
             {
@@ -366,183 +825,21 @@
                 "permalink": "/docs/libraries/create-a-blog-post"
               },
               "next": {
-                "title": "Qdrant Manual",
-                "permalink": "/docs/category/qdrant-manual"
+                "title": "API Reference",
+                "permalink": "/docs/reference"
               }
             },
             {
-              "unversionedId": "manual/administration",
-              "id": "manual/administration",
-              "title": "administration",
-              "description": "Qdrant exposes administration tools which enable to modify at runtime the behavior of a qdrant instance without changing its configuration manually.",
-              "source": "@site/docs/manual/administration.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/administration",
-              "permalink": "/docs/manual/administration",
+              "unversionedId": "reference",
+              "id": "reference",
+              "title": "API Reference",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/reference.md",
+              "sourceDirName": ".",
+              "slug": "/reference",
+              "permalink": "/docs/reference",
               "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/administration.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 14,
-              "frontMatter": {
-                "sidebar_position": 14
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "configuration",
-                "permalink": "/docs/manual/configuration"
-              },
-              "next": {
-                "title": "Tutorials",
-                "permalink": "/docs/category/tutorials"
-              }
-            },
-            {
-              "unversionedId": "manual/collections",
-              "id": "manual/collections",
-              "title": "collections",
-              "description": "Collections",
-              "source": "@site/docs/manual/collections.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/collections",
-              "permalink": "/docs/manual/collections",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/collections.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Qdrant Manual",
-                "permalink": "/docs/category/qdrant-manual"
-              },
-              "next": {
-                "title": "payload",
-                "permalink": "/docs/manual/payload"
-              }
-            },
-            {
-              "unversionedId": "manual/configuration",
-              "id": "manual/configuration",
-              "title": "configuration",
-              "description": "To change or correct Qdrant's behavior, default collection settings, and network interface parameters, you can use the configuration file.",
-              "source": "@site/docs/manual/configuration.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/configuration",
-              "permalink": "/docs/manual/configuration",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/configuration.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 13,
-              "frontMatter": {
-                "sidebar_position": 13
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "telemetry",
-                "permalink": "/docs/manual/telemetry"
-              },
-              "next": {
-                "title": "administration",
-                "permalink": "/docs/manual/administration"
-              }
-            },
-            {
-              "unversionedId": "manual/distributed_deployment",
-              "id": "manual/distributed_deployment",
-              "title": "distributed_deployment",
-              "description": "Since version v0.8.0 Qdrant supports a distributed deployment mode.",
-              "source": "@site/docs/manual/distributed_deployment.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/distributed_deployment",
-              "permalink": "/docs/manual/distributed_deployment",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/distributed_deployment.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 9,
-              "frontMatter": {
-                "sidebar_position": 9
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "indexing",
-                "permalink": "/docs/manual/indexing"
-              },
-              "next": {
-                "title": "snapshots",
-                "permalink": "/docs/manual/snapshots"
-              }
-            },
-            {
-              "unversionedId": "manual/filtering",
-              "id": "manual/filtering",
-              "title": "filtering",
-              "description": "Qdrant allows you to set the conditions to be used when searching or retrieving points.",
-              "source": "@site/docs/manual/filtering.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/filtering",
-              "permalink": "/docs/manual/filtering",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/filtering.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "search",
-                "permalink": "/docs/manual/search"
-              },
-              "next": {
-                "title": "optimizer",
-                "permalink": "/docs/manual/optimizer"
-              }
-            },
-            {
-              "unversionedId": "manual/indexing",
-              "id": "manual/indexing",
-              "title": "indexing",
-              "description": "A key feature of Qdrant is the effective combination of vector and traditional indexes. It is essential to have this because for vector search to work effectively with filters, having vector index only is not enough. In simpler terms, a vector index speeds up vector search, and payload indexes speed up filtering.",
-              "source": "@site/docs/manual/indexing.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/indexing",
-              "permalink": "/docs/manual/indexing",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/indexing.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 8,
-              "frontMatter": {
-                "sidebar_position": 8
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "storage",
-                "permalink": "/docs/manual/storage"
-              },
-              "next": {
-                "title": "distributed_deployment",
-                "permalink": "/docs/manual/distributed_deployment"
-              }
-            },
-            {
-              "unversionedId": "manual/optimizer",
-              "id": "manual/optimizer",
-              "title": "optimizer",
-              "description": "It is much more efficient to apply changes in batches than perform each change individually, as many other databases do. Qdrant here is no exception. Since Qdrant operates with data structures that are not always easy to change, it is sometimes necessary to rebuild those structures completely.",
-              "source": "@site/docs/manual/optimizer.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/optimizer",
-              "permalink": "/docs/manual/optimizer",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/optimizer.md",
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/reference.md",
               "tags": [],
               "version": "current",
               "sidebarPosition": 6,
@@ -551,201 +848,12 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "filtering",
-                "permalink": "/docs/manual/filtering"
+                "title": "NodeJS Client",
+                "permalink": "/docs/libraries/create-a-document"
               },
               "next": {
-                "title": "storage",
-                "permalink": "/docs/manual/storage"
-              }
-            },
-            {
-              "unversionedId": "manual/payload",
-              "id": "manual/payload",
-              "title": "payload",
-              "description": "One of the significant features of Qdrant is the ability to store additional information along with vectors.",
-              "source": "@site/docs/manual/payload.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/payload",
-              "permalink": "/docs/manual/payload",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/payload.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "collections",
-                "permalink": "/docs/manual/collections"
-              },
-              "next": {
-                "title": "points",
-                "permalink": "/docs/manual/points"
-              }
-            },
-            {
-              "unversionedId": "manual/points",
-              "id": "manual/points",
-              "title": "points",
-              "description": "The points are the central entity that Qdrant operates with.",
-              "source": "@site/docs/manual/points.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/points",
-              "permalink": "/docs/manual/points",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/points.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "payload",
-                "permalink": "/docs/manual/payload"
-              },
-              "next": {
-                "title": "search",
-                "permalink": "/docs/manual/search"
-              }
-            },
-            {
-              "unversionedId": "manual/quantization",
-              "id": "manual/quantization",
-              "title": "quantization",
-              "description": "<!---What is quantization and what it used for.",
-              "source": "@site/docs/manual/quantization.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/quantization",
-              "permalink": "/docs/manual/quantization",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/quantization.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 11,
-              "frontMatter": {
-                "sidebar_position": 11
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "snapshots",
-                "permalink": "/docs/manual/snapshots"
-              },
-              "next": {
-                "title": "telemetry",
-                "permalink": "/docs/manual/telemetry"
-              }
-            },
-            {
-              "unversionedId": "manual/search",
-              "id": "manual/search",
-              "title": "search",
-              "description": "Similarity search",
-              "source": "@site/docs/manual/search.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/search",
-              "permalink": "/docs/manual/search",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/search.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "points",
-                "permalink": "/docs/manual/points"
-              },
-              "next": {
-                "title": "filtering",
-                "permalink": "/docs/manual/filtering"
-              }
-            },
-            {
-              "unversionedId": "manual/snapshots",
-              "id": "manual/snapshots",
-              "title": "snapshots",
-              "description": "Available since v0.8.4",
-              "source": "@site/docs/manual/snapshots.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/snapshots",
-              "permalink": "/docs/manual/snapshots",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/snapshots.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 10,
-              "frontMatter": {
-                "sidebar_position": 10
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "distributed_deployment",
-                "permalink": "/docs/manual/distributed_deployment"
-              },
-              "next": {
-                "title": "quantization",
-                "permalink": "/docs/manual/quantization"
-              }
-            },
-            {
-              "unversionedId": "manual/storage",
-              "id": "manual/storage",
-              "title": "storage",
-              "description": "All data within one collection is divided into segments.",
-              "source": "@site/docs/manual/storage.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/storage",
-              "permalink": "/docs/manual/storage",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/storage.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 7,
-              "frontMatter": {
-                "sidebar_position": 7
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "optimizer",
-                "permalink": "/docs/manual/optimizer"
-              },
-              "next": {
-                "title": "indexing",
-                "permalink": "/docs/manual/indexing"
-              }
-            },
-            {
-              "unversionedId": "manual/telemetry",
-              "id": "manual/telemetry",
-              "title": "telemetry",
-              "description": "Qdrant collects anonymized usage statistics from users in order to improve the engine.",
-              "source": "@site/docs/manual/telemetry.md",
-              "sourceDirName": "manual",
-              "slug": "/manual/telemetry",
-              "permalink": "/docs/manual/telemetry",
-              "draft": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/telemetry.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 12,
-              "frontMatter": {
-                "sidebar_position": 12
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "quantization",
-                "permalink": "/docs/manual/quantization"
-              },
-              "next": {
-                "title": "configuration",
-                "permalink": "/docs/manual/configuration"
+                "title": "Benchmarks",
+                "permalink": "/docs/benchmarks"
               }
             },
             {
@@ -761,14 +869,41 @@
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/releasenotes.md",
               "tags": [],
               "version": "current",
-              "sidebarPosition": 7,
+              "sidebarPosition": 8,
               "frontMatter": {
-                "sidebar_position": 7
+                "sidebar_position": 8
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Congratulations!",
-                "permalink": "/docs/integrations/congratulations"
+                "title": "Benchmarks",
+                "permalink": "/docs/benchmarks"
+              },
+              "next": {
+                "title": "Technical Support",
+                "permalink": "/docs/techsupport"
+              }
+            },
+            {
+              "unversionedId": "techsupport",
+              "id": "techsupport",
+              "title": "Technical Support",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/techsupport.md",
+              "sourceDirName": ".",
+              "slug": "/techsupport",
+              "permalink": "/docs/techsupport",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/techsupport.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Release Notes",
+                "permalink": "/docs/releasenotes"
               }
             },
             {
@@ -837,11 +972,11 @@
                 "items": [
                   {
                     "type": "doc",
-                    "id": "gettingstarted/qdrant_101"
+                    "id": "gettingstarted/quick_start"
                   },
                   {
                     "type": "doc",
-                    "id": "gettingstarted/quick_start"
+                    "id": "gettingstarted/qdrant_101"
                   },
                   {
                     "type": "doc",
@@ -855,101 +990,97 @@
                 }
               },
               {
-                "type": "doc",
-                "id": "apispec"
-              },
-              {
                 "type": "category",
-                "label": "Client Libraries",
+                "label": "Qdrant Cloud",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "libraries/congratulations"
+                    "id": "cloud/backups"
                   },
                   {
                     "type": "doc",
-                    "id": "libraries/create-a-blog-post"
+                    "id": "cloud/capacity"
                   },
                   {
                     "type": "doc",
-                    "id": "libraries/create-a-document"
+                    "id": "cloud/scaling"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/client-libraries",
-                  "permalink": "/docs/category/client-libraries"
+                  "slug": "/category/qdrant-cloud",
+                  "permalink": "/docs/category/qdrant-cloud"
                 }
               },
               {
                 "type": "category",
-                "label": "Qdrant Manual",
+                "label": "Concepts",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "manual/collections"
+                    "id": "concepts/Collections"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/payload"
+                    "id": "concepts/Payload"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/points"
+                    "id": "concepts/Points"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/search"
+                    "id": "concepts/Search"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/filtering"
+                    "id": "concepts/Filtering"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/optimizer"
+                    "id": "concepts/Optimizer"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/storage"
+                    "id": "concepts/Storage"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/indexing"
+                    "id": "concepts/Indexing"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/distributed_deployment"
+                    "id": "concepts/Distributed_Deployment"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/snapshots"
+                    "id": "concepts/Snapshots"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/quantization"
+                    "id": "concepts/Quantization"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/telemetry"
+                    "id": "concepts/Telemetry"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/configuration"
+                    "id": "concepts/Configuration"
                   },
                   {
                     "type": "doc",
-                    "id": "manual/administration"
+                    "id": "concepts/Administration"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/qdrant-manual",
-                  "permalink": "/docs/category/qdrant-manual"
+                  "slug": "/category/concepts",
+                  "permalink": "/docs/category/concepts"
                 }
               },
               {
@@ -1011,8 +1142,45 @@
                 }
               },
               {
+                "type": "category",
+                "label": "Client Libraries",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "libraries/congratulations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "libraries/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "libraries/create-a-document"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/client-libraries",
+                  "permalink": "/docs/category/client-libraries"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "reference"
+              },
+              {
+                "type": "doc",
+                "id": "benchmarks"
+              },
+              {
                 "type": "doc",
                 "id": "releasenotes"
+              },
+              {
+                "type": "doc",
+                "id": "techsupport"
               }
             ]
           }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "releasenotes copy",
+  "id": "releasenotes copy",
+  "title": "Release Notes",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/releasenotes copy.md",
+  "sourceDirName": ".",
+  "slug": "/releasenotes copy",
+  "permalink": "/docs/releasenotes copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/releasenotes copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Benchmarks",
+    "permalink": "/docs/benchmarks"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/docs/releasenotes"
+  }
+}

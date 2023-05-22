@@ -8,11 +8,96 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "gettingstarted/qdrant_101",
+          "mainDocId": "gettingstarted/quick_start",
           "docs": [
             {
-              "id": "apispec",
-              "path": "/docs/apispec",
+              "id": "benchmarks",
+              "path": "/docs/benchmarks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cloud/backups",
+              "path": "/docs/cloud/backups",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cloud/capacity",
+              "path": "/docs/cloud/capacity",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "cloud/scaling",
+              "path": "/docs/cloud/scaling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Administration",
+              "path": "/docs/concepts/Administration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Collections",
+              "path": "/docs/concepts/Collections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Configuration",
+              "path": "/docs/concepts/Configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Distributed_Deployment",
+              "path": "/docs/concepts/Distributed_Deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Filtering",
+              "path": "/docs/concepts/Filtering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Indexing",
+              "path": "/docs/concepts/Indexing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Optimizer",
+              "path": "/docs/concepts/Optimizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Payload",
+              "path": "/docs/concepts/Payload",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Points",
+              "path": "/docs/concepts/Points",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Quantization",
+              "path": "/docs/concepts/Quantization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Search",
+              "path": "/docs/concepts/Search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Snapshots",
+              "path": "/docs/concepts/Snapshots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Storage",
+              "path": "/docs/concepts/Storage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "concepts/Telemetry",
+              "path": "/docs/concepts/Telemetry",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -76,78 +161,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "manual/administration",
-              "path": "/docs/manual/administration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/collections",
-              "path": "/docs/manual/collections",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/configuration",
-              "path": "/docs/manual/configuration",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/distributed_deployment",
-              "path": "/docs/manual/distributed_deployment",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/filtering",
-              "path": "/docs/manual/filtering",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/indexing",
-              "path": "/docs/manual/indexing",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/optimizer",
-              "path": "/docs/manual/optimizer",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/payload",
-              "path": "/docs/manual/payload",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/points",
-              "path": "/docs/manual/points",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/quantization",
-              "path": "/docs/manual/quantization",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/search",
-              "path": "/docs/manual/search",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/snapshots",
-              "path": "/docs/manual/snapshots",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/storage",
-              "path": "/docs/manual/storage",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "manual/telemetry",
-              "path": "/docs/manual/telemetry",
+              "id": "reference",
+              "path": "/docs/reference",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "releasenotes",
               "path": "/docs/releasenotes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "techsupport",
+              "path": "/docs/techsupport",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -166,13 +191,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/client-libraries",
-              "path": "/docs/category/client-libraries",
+              "id": "/category/qdrant-cloud",
+              "path": "/docs/category/qdrant-cloud",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/qdrant-manual",
-              "path": "/docs/category/qdrant-manual",
+              "id": "/category/concepts",
+              "path": "/docs/category/concepts",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -183,6 +208,11 @@
             {
               "id": "/category/integrations",
               "path": "/docs/category/integrations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/client-libraries",
+              "path": "/docs/category/client-libraries",
               "sidebar": "tutorialSidebar"
             }
           ],

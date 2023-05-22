@@ -1,0 +1,15 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started-1",
+  "permalink": "/docs/category/getting-started-1",
+  "navigation": {
+    "previous": {
+      "title": "Add Vectors",
+      "permalink": "/docs/cloud/install_qdrant"
+    },
+    "next": {
+      "title": "Quick Start",
+      "permalink": "/docs/gettingstarted/quick_start"
+    }
+  }
+}

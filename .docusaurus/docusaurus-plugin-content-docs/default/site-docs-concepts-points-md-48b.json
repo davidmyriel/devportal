@@ -1,0 +1,27 @@
+{
+  "unversionedId": "concepts/Points",
+  "id": "concepts/Points",
+  "title": "Points",
+  "description": "The points are the central entity that Qdrant operates with.",
+  "source": "@site/docs/concepts/Points.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/Points",
+  "permalink": "/docs/concepts/Points",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/Points.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Payload",
+    "permalink": "/docs/concepts/Payload"
+  },
+  "next": {
+    "title": "Search",
+    "permalink": "/docs/concepts/Search"
+  }
+}

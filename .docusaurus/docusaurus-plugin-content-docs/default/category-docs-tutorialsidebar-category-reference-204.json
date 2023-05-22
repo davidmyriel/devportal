@@ -1,0 +1,15 @@
+{
+  "title": "Reference",
+  "slug": "/category/reference",
+  "permalink": "/docs/category/reference",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/docs/integrations/congratulations"
+    },
+    "next": {
+      "title": "Python Client",
+      "permalink": "/docs/libraries/congratulations"
+    }
+  }
+}

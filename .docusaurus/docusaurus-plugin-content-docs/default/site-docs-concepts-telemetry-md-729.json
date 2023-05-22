@@ -1,0 +1,27 @@
+{
+  "unversionedId": "concepts/telemetry",
+  "id": "concepts/telemetry",
+  "title": "telemetry",
+  "description": "Qdrant collects anonymized usage statistics from users in order to improve the engine.",
+  "source": "@site/docs/concepts/telemetry.md",
+  "sourceDirName": "concepts",
+  "slug": "/concepts/telemetry",
+  "permalink": "/docs/concepts/telemetry",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/concepts/telemetry.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quantization",
+    "permalink": "/docs/concepts/Quantization"
+  },
+  "next": {
+    "title": "configuration",
+    "permalink": "/docs/concepts/configuration"
+  }
+}

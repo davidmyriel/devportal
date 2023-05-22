@@ -55,17 +55,6 @@ export default {
           "label": "Documentation"
         },
         {
-          "href": "https://qdrant.github.io/qdrant/redoc/index.html",
-          "label": "API Reference",
-          "position": "left"
-        },
-        {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Qdrant Cloud"
-        },
-        {
           "href": "https://github.com/facebook/docusaurus",
           "label": "GitHub",
           "position": "right"

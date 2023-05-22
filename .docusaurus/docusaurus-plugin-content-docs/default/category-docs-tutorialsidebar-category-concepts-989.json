@@ -1,0 +1,15 @@
+{
+  "title": "Concepts",
+  "slug": "/category/concepts",
+  "permalink": "/docs/category/concepts",
+  "navigation": {
+    "previous": {
+      "title": "Scaling",
+      "permalink": "/docs/cloud/scaling"
+    },
+    "next": {
+      "title": "Collections",
+      "permalink": "/docs/concepts/Collections"
+    }
+  }
+}

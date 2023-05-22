@@ -1,0 +1,27 @@
+{
+  "unversionedId": "benchmarks",
+  "id": "benchmarks",
+  "title": "Benchmarks",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/benchmarks.md",
+  "sourceDirName": ".",
+  "slug": "/benchmarks",
+  "permalink": "/docs/benchmarks",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/benchmarks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API Reference",
+    "permalink": "/docs/reference"
+  },
+  "next": {
+    "title": "Release Notes",
+    "permalink": "/docs/releasenotes"
+  }
+}
