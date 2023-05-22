@@ -1,0 +1,27 @@
+{
+  "unversionedId": "manual/telemetry",
+  "id": "manual/telemetry",
+  "title": "telemetry",
+  "description": "Qdrant collects anonymized usage statistics from users in order to improve the engine.",
+  "source": "@site/docs/manual/telemetry.md",
+  "sourceDirName": "manual",
+  "slug": "/manual/telemetry",
+  "permalink": "/docs/manual/telemetry",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/telemetry.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "quantization",
+    "permalink": "/docs/manual/quantization"
+  },
+  "next": {
+    "title": "configuration",
+    "permalink": "/docs/manual/configuration"
+  }
+}

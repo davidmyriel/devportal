@@ -1,0 +1,27 @@
+{
+  "unversionedId": "manual/indexing",
+  "id": "manual/indexing",
+  "title": "indexing",
+  "description": "A key feature of Qdrant is the effective combination of vector and traditional indexes. It is essential to have this because for vector search to work effectively with filters, having vector index only is not enough. In simpler terms, a vector index speeds up vector search, and payload indexes speed up filtering.",
+  "source": "@site/docs/manual/indexing.md",
+  "sourceDirName": "manual",
+  "slug": "/manual/indexing",
+  "permalink": "/docs/manual/indexing",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/indexing.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "storage",
+    "permalink": "/docs/manual/storage"
+  },
+  "next": {
+    "title": "distributed_deployment",
+    "permalink": "/docs/manual/distributed_deployment"
+  }
+}

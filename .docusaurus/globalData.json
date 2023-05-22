@@ -1,0 +1,203 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "gettingstarted/qdrant_101",
+          "docs": [
+            {
+              "id": "apispec",
+              "path": "/docs/apispec",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gettingstarted/install_qdrant",
+              "path": "/docs/gettingstarted/install_qdrant",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gettingstarted/qdrant_101",
+              "path": "/docs/gettingstarted/qdrant_101",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "gettingstarted/quick_start",
+              "path": "/docs/gettingstarted/quick_start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/congratulations",
+              "path": "/docs/integrations/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/create-a-blog-post",
+              "path": "/docs/integrations/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/create-a-document",
+              "path": "/docs/integrations/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/create-a-page",
+              "path": "/docs/integrations/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/deploy-your-site",
+              "path": "/docs/integrations/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "integrations/markdown-features",
+              "path": "/docs/integrations/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "libraries/congratulations",
+              "path": "/docs/libraries/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "libraries/create-a-blog-post",
+              "path": "/docs/libraries/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "libraries/create-a-document",
+              "path": "/docs/libraries/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/administration",
+              "path": "/docs/manual/administration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/collections",
+              "path": "/docs/manual/collections",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/configuration",
+              "path": "/docs/manual/configuration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/distributed_deployment",
+              "path": "/docs/manual/distributed_deployment",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/filtering",
+              "path": "/docs/manual/filtering",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/indexing",
+              "path": "/docs/manual/indexing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/optimizer",
+              "path": "/docs/manual/optimizer",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/payload",
+              "path": "/docs/manual/payload",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/points",
+              "path": "/docs/manual/points",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/quantization",
+              "path": "/docs/manual/quantization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/search",
+              "path": "/docs/manual/search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/snapshots",
+              "path": "/docs/manual/snapshots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/storage",
+              "path": "/docs/manual/storage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "manual/telemetry",
+              "path": "/docs/manual/telemetry",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "releasenotes",
+              "path": "/docs/releasenotes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/manage-docs-versions",
+              "path": "/docs/tutorials/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials/translate-your-site",
+              "path": "/docs/tutorials/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/client-libraries",
+              "path": "/docs/category/client-libraries",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/qdrant-manual",
+              "path": "/docs/category/qdrant-manual",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorials",
+              "path": "/docs/category/tutorials",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/integrations",
+              "path": "/docs/category/integrations",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/getting-started",
+                "label": "Getting Started"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

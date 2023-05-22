@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gettingstarted/create-a-document",
+  "id": "gettingstarted/create-a-document",
+  "title": "Create a Document",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/gettingstarted/create-a-document.md",
+  "sourceDirName": "gettingstarted",
+  "slug": "/gettingstarted/create-a-document",
+  "permalink": "/docs/gettingstarted/create-a-document",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gettingstarted/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/category/getting-started"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/gettingstarted/install_qdrant"
+  }
+}

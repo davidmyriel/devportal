@@ -1,0 +1,27 @@
+{
+  "unversionedId": "gettingstarted/install_qdrant",
+  "id": "gettingstarted/install_qdrant",
+  "title": "Install Qdrant",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/gettingstarted/install_qdrant.md",
+  "sourceDirName": "gettingstarted",
+  "slug": "/gettingstarted/install_qdrant",
+  "permalink": "/docs/gettingstarted/install_qdrant",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gettingstarted/install_qdrant.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick Start",
+    "permalink": "/docs/gettingstarted/quick_start"
+  },
+  "next": {
+    "title": "API Specification",
+    "permalink": "/docs/apispec"
+  }
+}

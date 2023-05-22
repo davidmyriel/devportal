@@ -1,0 +1,27 @@
+{
+  "unversionedId": "manual/points",
+  "id": "manual/points",
+  "title": "points",
+  "description": "The points are the central entity that Qdrant operates with.",
+  "source": "@site/docs/manual/points.md",
+  "sourceDirName": "manual",
+  "slug": "/manual/points",
+  "permalink": "/docs/manual/points",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/points.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "payload",
+    "permalink": "/docs/manual/payload"
+  },
+  "next": {
+    "title": "search",
+    "permalink": "/docs/manual/search"
+  }
+}

@@ -1,0 +1,421 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Qdrant 101",
+            "href": "/docs/gettingstarted/qdrant_101",
+            "docId": "gettingstarted/qdrant_101"
+          },
+          {
+            "type": "link",
+            "label": "Quick Start",
+            "href": "/docs/gettingstarted/quick_start",
+            "docId": "gettingstarted/quick_start"
+          },
+          {
+            "type": "link",
+            "label": "Install Qdrant",
+            "href": "/docs/gettingstarted/install_qdrant",
+            "docId": "gettingstarted/install_qdrant"
+          }
+        ],
+        "href": "/docs/category/getting-started"
+      },
+      {
+        "type": "link",
+        "label": "API Specification",
+        "href": "/docs/apispec",
+        "docId": "apispec"
+      },
+      {
+        "type": "category",
+        "label": "Client Libraries",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Python Client",
+            "href": "/docs/libraries/congratulations",
+            "docId": "libraries/congratulations"
+          },
+          {
+            "type": "link",
+            "label": "Rust Client",
+            "href": "/docs/libraries/create-a-blog-post",
+            "docId": "libraries/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "NodeJS Client",
+            "href": "/docs/libraries/create-a-document",
+            "docId": "libraries/create-a-document"
+          }
+        ],
+        "href": "/docs/category/client-libraries"
+      },
+      {
+        "type": "category",
+        "label": "Qdrant Manual",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "collections",
+            "href": "/docs/manual/collections",
+            "docId": "manual/collections"
+          },
+          {
+            "type": "link",
+            "label": "payload",
+            "href": "/docs/manual/payload",
+            "docId": "manual/payload"
+          },
+          {
+            "type": "link",
+            "label": "points",
+            "href": "/docs/manual/points",
+            "docId": "manual/points"
+          },
+          {
+            "type": "link",
+            "label": "search",
+            "href": "/docs/manual/search",
+            "docId": "manual/search"
+          },
+          {
+            "type": "link",
+            "label": "filtering",
+            "href": "/docs/manual/filtering",
+            "docId": "manual/filtering"
+          },
+          {
+            "type": "link",
+            "label": "optimizer",
+            "href": "/docs/manual/optimizer",
+            "docId": "manual/optimizer"
+          },
+          {
+            "type": "link",
+            "label": "storage",
+            "href": "/docs/manual/storage",
+            "docId": "manual/storage"
+          },
+          {
+            "type": "link",
+            "label": "indexing",
+            "href": "/docs/manual/indexing",
+            "docId": "manual/indexing"
+          },
+          {
+            "type": "link",
+            "label": "distributed_deployment",
+            "href": "/docs/manual/distributed_deployment",
+            "docId": "manual/distributed_deployment"
+          },
+          {
+            "type": "link",
+            "label": "snapshots",
+            "href": "/docs/manual/snapshots",
+            "docId": "manual/snapshots"
+          },
+          {
+            "type": "link",
+            "label": "quantization",
+            "href": "/docs/manual/quantization",
+            "docId": "manual/quantization"
+          },
+          {
+            "type": "link",
+            "label": "telemetry",
+            "href": "/docs/manual/telemetry",
+            "docId": "manual/telemetry"
+          },
+          {
+            "type": "link",
+            "label": "configuration",
+            "href": "/docs/manual/configuration",
+            "docId": "manual/configuration"
+          },
+          {
+            "type": "link",
+            "label": "administration",
+            "href": "/docs/manual/administration",
+            "docId": "manual/administration"
+          }
+        ],
+        "href": "/docs/category/qdrant-manual"
+      },
+      {
+        "type": "category",
+        "label": "Tutorials",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/tutorials/manage-docs-versions",
+            "docId": "tutorials/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/tutorials/translate-your-site",
+            "docId": "tutorials/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/tutorials"
+      },
+      {
+        "type": "category",
+        "label": "Integrations",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/docs/integrations/create-a-page",
+            "docId": "integrations/create-a-page"
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/docs/integrations/create-a-document",
+            "docId": "integrations/create-a-document"
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/docs/integrations/create-a-blog-post",
+            "docId": "integrations/create-a-blog-post"
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/docs/integrations/markdown-features",
+            "docId": "integrations/markdown-features"
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/docs/integrations/deploy-your-site",
+            "docId": "integrations/deploy-your-site"
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/docs/integrations/congratulations",
+            "docId": "integrations/congratulations"
+          }
+        ],
+        "href": "/docs/category/integrations"
+      },
+      {
+        "type": "link",
+        "label": "Release Notes",
+        "href": "/docs/releasenotes",
+        "docId": "releasenotes"
+      }
+    ]
+  },
+  "docs": {
+    "apispec": {
+      "id": "apispec",
+      "title": "API Specification",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "gettingstarted/install_qdrant": {
+      "id": "gettingstarted/install_qdrant",
+      "title": "Install Qdrant",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "gettingstarted/qdrant_101": {
+      "id": "gettingstarted/qdrant_101",
+      "title": "Qdrant 101",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "gettingstarted/quick_start": {
+      "id": "gettingstarted/quick_start",
+      "title": "Quick Start",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "integrations/congratulations": {
+      "id": "integrations/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "integrations/create-a-blog-post": {
+      "id": "integrations/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "integrations/create-a-document": {
+      "id": "integrations/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "integrations/create-a-page": {
+      "id": "integrations/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "integrations/deploy-your-site": {
+      "id": "integrations/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "integrations/markdown-features": {
+      "id": "integrations/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    },
+    "libraries/congratulations": {
+      "id": "libraries/congratulations",
+      "title": "Python Client",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "libraries/create-a-blog-post": {
+      "id": "libraries/create-a-blog-post",
+      "title": "Rust Client",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "libraries/create-a-document": {
+      "id": "libraries/create-a-document",
+      "title": "NodeJS Client",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/administration": {
+      "id": "manual/administration",
+      "title": "administration",
+      "description": "Qdrant exposes administration tools which enable to modify at runtime the behavior of a qdrant instance without changing its configuration manually.",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/collections": {
+      "id": "manual/collections",
+      "title": "collections",
+      "description": "Collections",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/configuration": {
+      "id": "manual/configuration",
+      "title": "configuration",
+      "description": "To change or correct Qdrant's behavior, default collection settings, and network interface parameters, you can use the configuration file.",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/distributed_deployment": {
+      "id": "manual/distributed_deployment",
+      "title": "distributed_deployment",
+      "description": "Since version v0.8.0 Qdrant supports a distributed deployment mode.",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/filtering": {
+      "id": "manual/filtering",
+      "title": "filtering",
+      "description": "Qdrant allows you to set the conditions to be used when searching or retrieving points.",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/indexing": {
+      "id": "manual/indexing",
+      "title": "indexing",
+      "description": "A key feature of Qdrant is the effective combination of vector and traditional indexes. It is essential to have this because for vector search to work effectively with filters, having vector index only is not enough. In simpler terms, a vector index speeds up vector search, and payload indexes speed up filtering.",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/optimizer": {
+      "id": "manual/optimizer",
+      "title": "optimizer",
+      "description": "It is much more efficient to apply changes in batches than perform each change individually, as many other databases do. Qdrant here is no exception. Since Qdrant operates with data structures that are not always easy to change, it is sometimes necessary to rebuild those structures completely.",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/payload": {
+      "id": "manual/payload",
+      "title": "payload",
+      "description": "One of the significant features of Qdrant is the ability to store additional information along with vectors.",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/points": {
+      "id": "manual/points",
+      "title": "points",
+      "description": "The points are the central entity that Qdrant operates with.",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/quantization": {
+      "id": "manual/quantization",
+      "title": "quantization",
+      "description": "<!---What is quantization and what it used for.",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/search": {
+      "id": "manual/search",
+      "title": "search",
+      "description": "Similarity search",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/snapshots": {
+      "id": "manual/snapshots",
+      "title": "snapshots",
+      "description": "Available since v0.8.4",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/storage": {
+      "id": "manual/storage",
+      "title": "storage",
+      "description": "All data within one collection is divided into segments.",
+      "sidebar": "tutorialSidebar"
+    },
+    "manual/telemetry": {
+      "id": "manual/telemetry",
+      "title": "telemetry",
+      "description": "Qdrant collects anonymized usage statistics from users in order to improve the engine.",
+      "sidebar": "tutorialSidebar"
+    },
+    "releasenotes": {
+      "id": "releasenotes",
+      "title": "Release Notes",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/manage-docs-versions": {
+      "id": "tutorials/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorials/translate-your-site": {
+      "id": "tutorials/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

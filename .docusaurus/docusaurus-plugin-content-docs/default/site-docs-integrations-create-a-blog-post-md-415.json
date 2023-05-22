@@ -1,0 +1,27 @@
+{
+  "unversionedId": "integrations/create-a-blog-post",
+  "id": "integrations/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/integrations/create-a-blog-post.md",
+  "sourceDirName": "integrations",
+  "slug": "/integrations/create-a-blog-post",
+  "permalink": "/docs/integrations/create-a-blog-post",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/docs/integrations/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/integrations/markdown-features"
+  }
+}

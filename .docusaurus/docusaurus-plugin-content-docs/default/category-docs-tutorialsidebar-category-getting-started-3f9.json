@@ -1,0 +1,11 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started",
+  "permalink": "/docs/category/getting-started",
+  "navigation": {
+    "next": {
+      "title": "Qdrant 101",
+      "permalink": "/docs/gettingstarted/qdrant_101"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "manual/quantization",
+  "id": "manual/quantization",
+  "title": "quantization",
+  "description": "<!---What is quantization and what it used for.",
+  "source": "@site/docs/manual/quantization.md",
+  "sourceDirName": "manual",
+  "slug": "/manual/quantization",
+  "permalink": "/docs/manual/quantization",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/quantization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "snapshots",
+    "permalink": "/docs/manual/snapshots"
+  },
+  "next": {
+    "title": "telemetry",
+    "permalink": "/docs/manual/telemetry"
+  }
+}

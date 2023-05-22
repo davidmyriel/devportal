@@ -1,0 +1,15 @@
+{
+  "title": "Tutorials",
+  "slug": "/category/tutorials",
+  "permalink": "/docs/category/tutorials",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/docs/manual/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/tutorials/manage-docs-versions"
+    }
+  }
+}

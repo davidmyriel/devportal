@@ -1,0 +1,27 @@
+{
+  "unversionedId": "manual copy/congratulations",
+  "id": "manual copy/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/manual copy/congratulations.md",
+  "sourceDirName": "manual copy",
+  "slug": "/manual copy/congratulations",
+  "permalink": "/docs/manual copy/congratulations",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual copy/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/docs/manual copy/deploy-your-site"
+  },
+  "next": {
+    "title": "Tutorials",
+    "permalink": "/docs/category/tutorials"
+  }
+}

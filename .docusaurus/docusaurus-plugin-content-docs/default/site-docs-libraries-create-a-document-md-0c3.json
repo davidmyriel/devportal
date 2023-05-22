@@ -1,0 +1,27 @@
+{
+  "unversionedId": "libraries/create-a-document",
+  "id": "libraries/create-a-document",
+  "title": "NodeJS Client",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/libraries/create-a-document.md",
+  "sourceDirName": "libraries",
+  "slug": "/libraries/create-a-document",
+  "permalink": "/docs/libraries/create-a-document",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/libraries/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rust Client",
+    "permalink": "/docs/libraries/create-a-blog-post"
+  },
+  "next": {
+    "title": "Qdrant Manual",
+    "permalink": "/docs/category/qdrant-manual"
+  }
+}

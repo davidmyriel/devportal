@@ -1,0 +1,27 @@
+{
+  "unversionedId": "apispec",
+  "id": "apispec",
+  "title": "API Specification",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/apispec.md",
+  "sourceDirName": ".",
+  "slug": "/apispec",
+  "permalink": "/docs/apispec",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apispec.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install Qdrant",
+    "permalink": "/docs/gettingstarted/install_qdrant"
+  },
+  "next": {
+    "title": "Client Libraries",
+    "permalink": "/docs/category/client-libraries"
+  }
+}

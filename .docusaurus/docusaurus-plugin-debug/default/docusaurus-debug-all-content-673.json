@@ -1,0 +1,1389 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
+          "editUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/errant/Desktop/devportal/sidebars.js",
+          "contentPath": "/Users/errant/Desktop/devportal/docs",
+          "contentPathLocalized": "/Users/errant/Desktop/devportal/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "apispec",
+              "id": "apispec",
+              "title": "API Specification",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/apispec.md",
+              "sourceDirName": ".",
+              "slug": "/apispec",
+              "permalink": "/docs/apispec",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/apispec.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Install Qdrant",
+                "permalink": "/docs/gettingstarted/install_qdrant"
+              },
+              "next": {
+                "title": "Client Libraries",
+                "permalink": "/docs/category/client-libraries"
+              }
+            },
+            {
+              "unversionedId": "gettingstarted/install_qdrant",
+              "id": "gettingstarted/install_qdrant",
+              "title": "Install Qdrant",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/gettingstarted/install_qdrant.md",
+              "sourceDirName": "gettingstarted",
+              "slug": "/gettingstarted/install_qdrant",
+              "permalink": "/docs/gettingstarted/install_qdrant",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gettingstarted/install_qdrant.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Quick Start",
+                "permalink": "/docs/gettingstarted/quick_start"
+              },
+              "next": {
+                "title": "API Specification",
+                "permalink": "/docs/apispec"
+              }
+            },
+            {
+              "unversionedId": "gettingstarted/qdrant_101",
+              "id": "gettingstarted/qdrant_101",
+              "title": "Qdrant 101",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/gettingstarted/qdrant_101.md",
+              "sourceDirName": "gettingstarted",
+              "slug": "/gettingstarted/qdrant_101",
+              "permalink": "/docs/gettingstarted/qdrant_101",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gettingstarted/qdrant_101.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/docs/category/getting-started"
+              },
+              "next": {
+                "title": "Quick Start",
+                "permalink": "/docs/gettingstarted/quick_start"
+              }
+            },
+            {
+              "unversionedId": "gettingstarted/quick_start",
+              "id": "gettingstarted/quick_start",
+              "title": "Quick Start",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/gettingstarted/quick_start.md",
+              "sourceDirName": "gettingstarted",
+              "slug": "/gettingstarted/quick_start",
+              "permalink": "/docs/gettingstarted/quick_start",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/gettingstarted/quick_start.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Qdrant 101",
+                "permalink": "/docs/gettingstarted/qdrant_101"
+              },
+              "next": {
+                "title": "Install Qdrant",
+                "permalink": "/docs/gettingstarted/install_qdrant"
+              }
+            },
+            {
+              "unversionedId": "integrations/congratulations",
+              "id": "integrations/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/integrations/congratulations.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/congratulations",
+              "permalink": "/docs/integrations/congratulations",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations/congratulations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/docs/integrations/deploy-your-site"
+              },
+              "next": {
+                "title": "Release Notes",
+                "permalink": "/docs/releasenotes"
+              }
+            },
+            {
+              "unversionedId": "integrations/create-a-blog-post",
+              "id": "integrations/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/integrations/create-a-blog-post.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/create-a-blog-post",
+              "permalink": "/docs/integrations/create-a-blog-post",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations/create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/docs/integrations/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/integrations/markdown-features"
+              }
+            },
+            {
+              "unversionedId": "integrations/create-a-document",
+              "id": "integrations/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/integrations/create-a-document.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/create-a-document",
+              "permalink": "/docs/integrations/create-a-document",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations/create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/docs/integrations/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/integrations/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "integrations/create-a-page",
+              "id": "integrations/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/integrations/create-a-page.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/create-a-page",
+              "permalink": "/docs/integrations/create-a-page",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations/create-a-page.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrations",
+                "permalink": "/docs/category/integrations"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/docs/integrations/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "integrations/deploy-your-site",
+              "id": "integrations/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/integrations/deploy-your-site.md",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/deploy-your-site",
+              "permalink": "/docs/integrations/deploy-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations/deploy-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/docs/integrations/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/integrations/congratulations"
+              }
+            },
+            {
+              "unversionedId": "integrations/markdown-features",
+              "id": "integrations/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/integrations/markdown-features.mdx",
+              "sourceDirName": "integrations",
+              "slug": "/integrations/markdown-features",
+              "permalink": "/docs/integrations/markdown-features",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/integrations/markdown-features.mdx",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/integrations/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/docs/integrations/deploy-your-site"
+              }
+            },
+            {
+              "unversionedId": "libraries/congratulations",
+              "id": "libraries/congratulations",
+              "title": "Python Client",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/libraries/congratulations.md",
+              "sourceDirName": "libraries",
+              "slug": "/libraries/congratulations",
+              "permalink": "/docs/libraries/congratulations",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/libraries/congratulations.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Client Libraries",
+                "permalink": "/docs/category/client-libraries"
+              },
+              "next": {
+                "title": "Rust Client",
+                "permalink": "/docs/libraries/create-a-blog-post"
+              }
+            },
+            {
+              "unversionedId": "libraries/create-a-blog-post",
+              "id": "libraries/create-a-blog-post",
+              "title": "Rust Client",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/libraries/create-a-blog-post.md",
+              "sourceDirName": "libraries",
+              "slug": "/libraries/create-a-blog-post",
+              "permalink": "/docs/libraries/create-a-blog-post",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/libraries/create-a-blog-post.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Python Client",
+                "permalink": "/docs/libraries/congratulations"
+              },
+              "next": {
+                "title": "NodeJS Client",
+                "permalink": "/docs/libraries/create-a-document"
+              }
+            },
+            {
+              "unversionedId": "libraries/create-a-document",
+              "id": "libraries/create-a-document",
+              "title": "NodeJS Client",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/libraries/create-a-document.md",
+              "sourceDirName": "libraries",
+              "slug": "/libraries/create-a-document",
+              "permalink": "/docs/libraries/create-a-document",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/libraries/create-a-document.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Rust Client",
+                "permalink": "/docs/libraries/create-a-blog-post"
+              },
+              "next": {
+                "title": "Qdrant Manual",
+                "permalink": "/docs/category/qdrant-manual"
+              }
+            },
+            {
+              "unversionedId": "manual/administration",
+              "id": "manual/administration",
+              "title": "administration",
+              "description": "Qdrant exposes administration tools which enable to modify at runtime the behavior of a qdrant instance without changing its configuration manually.",
+              "source": "@site/docs/manual/administration.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/administration",
+              "permalink": "/docs/manual/administration",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/administration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 14,
+              "frontMatter": {
+                "sidebar_position": 14
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "configuration",
+                "permalink": "/docs/manual/configuration"
+              },
+              "next": {
+                "title": "Tutorials",
+                "permalink": "/docs/category/tutorials"
+              }
+            },
+            {
+              "unversionedId": "manual/collections",
+              "id": "manual/collections",
+              "title": "collections",
+              "description": "Collections",
+              "source": "@site/docs/manual/collections.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/collections",
+              "permalink": "/docs/manual/collections",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/collections.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Qdrant Manual",
+                "permalink": "/docs/category/qdrant-manual"
+              },
+              "next": {
+                "title": "payload",
+                "permalink": "/docs/manual/payload"
+              }
+            },
+            {
+              "unversionedId": "manual/configuration",
+              "id": "manual/configuration",
+              "title": "configuration",
+              "description": "To change or correct Qdrant's behavior, default collection settings, and network interface parameters, you can use the configuration file.",
+              "source": "@site/docs/manual/configuration.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/configuration",
+              "permalink": "/docs/manual/configuration",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/configuration.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 13,
+              "frontMatter": {
+                "sidebar_position": 13
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "telemetry",
+                "permalink": "/docs/manual/telemetry"
+              },
+              "next": {
+                "title": "administration",
+                "permalink": "/docs/manual/administration"
+              }
+            },
+            {
+              "unversionedId": "manual/distributed_deployment",
+              "id": "manual/distributed_deployment",
+              "title": "distributed_deployment",
+              "description": "Since version v0.8.0 Qdrant supports a distributed deployment mode.",
+              "source": "@site/docs/manual/distributed_deployment.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/distributed_deployment",
+              "permalink": "/docs/manual/distributed_deployment",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/distributed_deployment.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "indexing",
+                "permalink": "/docs/manual/indexing"
+              },
+              "next": {
+                "title": "snapshots",
+                "permalink": "/docs/manual/snapshots"
+              }
+            },
+            {
+              "unversionedId": "manual/filtering",
+              "id": "manual/filtering",
+              "title": "filtering",
+              "description": "Qdrant allows you to set the conditions to be used when searching or retrieving points.",
+              "source": "@site/docs/manual/filtering.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/filtering",
+              "permalink": "/docs/manual/filtering",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/filtering.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "search",
+                "permalink": "/docs/manual/search"
+              },
+              "next": {
+                "title": "optimizer",
+                "permalink": "/docs/manual/optimizer"
+              }
+            },
+            {
+              "unversionedId": "manual/indexing",
+              "id": "manual/indexing",
+              "title": "indexing",
+              "description": "A key feature of Qdrant is the effective combination of vector and traditional indexes. It is essential to have this because for vector search to work effectively with filters, having vector index only is not enough. In simpler terms, a vector index speeds up vector search, and payload indexes speed up filtering.",
+              "source": "@site/docs/manual/indexing.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/indexing",
+              "permalink": "/docs/manual/indexing",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/indexing.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 8,
+              "frontMatter": {
+                "sidebar_position": 8
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "storage",
+                "permalink": "/docs/manual/storage"
+              },
+              "next": {
+                "title": "distributed_deployment",
+                "permalink": "/docs/manual/distributed_deployment"
+              }
+            },
+            {
+              "unversionedId": "manual/optimizer",
+              "id": "manual/optimizer",
+              "title": "optimizer",
+              "description": "It is much more efficient to apply changes in batches than perform each change individually, as many other databases do. Qdrant here is no exception. Since Qdrant operates with data structures that are not always easy to change, it is sometimes necessary to rebuild those structures completely.",
+              "source": "@site/docs/manual/optimizer.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/optimizer",
+              "permalink": "/docs/manual/optimizer",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/optimizer.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "filtering",
+                "permalink": "/docs/manual/filtering"
+              },
+              "next": {
+                "title": "storage",
+                "permalink": "/docs/manual/storage"
+              }
+            },
+            {
+              "unversionedId": "manual/payload",
+              "id": "manual/payload",
+              "title": "payload",
+              "description": "One of the significant features of Qdrant is the ability to store additional information along with vectors.",
+              "source": "@site/docs/manual/payload.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/payload",
+              "permalink": "/docs/manual/payload",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/payload.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "collections",
+                "permalink": "/docs/manual/collections"
+              },
+              "next": {
+                "title": "points",
+                "permalink": "/docs/manual/points"
+              }
+            },
+            {
+              "unversionedId": "manual/points",
+              "id": "manual/points",
+              "title": "points",
+              "description": "The points are the central entity that Qdrant operates with.",
+              "source": "@site/docs/manual/points.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/points",
+              "permalink": "/docs/manual/points",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/points.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "payload",
+                "permalink": "/docs/manual/payload"
+              },
+              "next": {
+                "title": "search",
+                "permalink": "/docs/manual/search"
+              }
+            },
+            {
+              "unversionedId": "manual/quantization",
+              "id": "manual/quantization",
+              "title": "quantization",
+              "description": "<!---What is quantization and what it used for.",
+              "source": "@site/docs/manual/quantization.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/quantization",
+              "permalink": "/docs/manual/quantization",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/quantization.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 11,
+              "frontMatter": {
+                "sidebar_position": 11
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "snapshots",
+                "permalink": "/docs/manual/snapshots"
+              },
+              "next": {
+                "title": "telemetry",
+                "permalink": "/docs/manual/telemetry"
+              }
+            },
+            {
+              "unversionedId": "manual/search",
+              "id": "manual/search",
+              "title": "search",
+              "description": "Similarity search",
+              "source": "@site/docs/manual/search.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/search",
+              "permalink": "/docs/manual/search",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/search.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "points",
+                "permalink": "/docs/manual/points"
+              },
+              "next": {
+                "title": "filtering",
+                "permalink": "/docs/manual/filtering"
+              }
+            },
+            {
+              "unversionedId": "manual/snapshots",
+              "id": "manual/snapshots",
+              "title": "snapshots",
+              "description": "Available since v0.8.4",
+              "source": "@site/docs/manual/snapshots.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/snapshots",
+              "permalink": "/docs/manual/snapshots",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/snapshots.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "distributed_deployment",
+                "permalink": "/docs/manual/distributed_deployment"
+              },
+              "next": {
+                "title": "quantization",
+                "permalink": "/docs/manual/quantization"
+              }
+            },
+            {
+              "unversionedId": "manual/storage",
+              "id": "manual/storage",
+              "title": "storage",
+              "description": "All data within one collection is divided into segments.",
+              "source": "@site/docs/manual/storage.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/storage",
+              "permalink": "/docs/manual/storage",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/storage.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "optimizer",
+                "permalink": "/docs/manual/optimizer"
+              },
+              "next": {
+                "title": "indexing",
+                "permalink": "/docs/manual/indexing"
+              }
+            },
+            {
+              "unversionedId": "manual/telemetry",
+              "id": "manual/telemetry",
+              "title": "telemetry",
+              "description": "Qdrant collects anonymized usage statistics from users in order to improve the engine.",
+              "source": "@site/docs/manual/telemetry.md",
+              "sourceDirName": "manual",
+              "slug": "/manual/telemetry",
+              "permalink": "/docs/manual/telemetry",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/telemetry.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 12,
+              "frontMatter": {
+                "sidebar_position": 12
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "quantization",
+                "permalink": "/docs/manual/quantization"
+              },
+              "next": {
+                "title": "configuration",
+                "permalink": "/docs/manual/configuration"
+              }
+            },
+            {
+              "unversionedId": "releasenotes",
+              "id": "releasenotes",
+              "title": "Release Notes",
+              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "source": "@site/docs/releasenotes.md",
+              "sourceDirName": ".",
+              "slug": "/releasenotes",
+              "permalink": "/docs/releasenotes",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/releasenotes.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Congratulations!",
+                "permalink": "/docs/integrations/congratulations"
+              }
+            },
+            {
+              "unversionedId": "tutorials/manage-docs-versions",
+              "id": "tutorials/manage-docs-versions",
+              "title": "Manage Docs Versions",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/tutorials/manage-docs-versions.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/manage-docs-versions",
+              "permalink": "/docs/tutorials/manage-docs-versions",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/manage-docs-versions.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Tutorials",
+                "permalink": "/docs/category/tutorials"
+              },
+              "next": {
+                "title": "Translate your site",
+                "permalink": "/docs/tutorials/translate-your-site"
+              }
+            },
+            {
+              "unversionedId": "tutorials/translate-your-site",
+              "id": "tutorials/translate-your-site",
+              "title": "Translate your site",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/tutorials/translate-your-site.md",
+              "sourceDirName": "tutorials",
+              "slug": "/tutorials/translate-your-site",
+              "permalink": "/docs/tutorials/translate-your-site",
+              "draft": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorials/translate-your-site.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Manage Docs Versions",
+                "permalink": "/docs/tutorials/manage-docs-versions"
+              },
+              "next": {
+                "title": "Integrations",
+                "permalink": "/docs/category/integrations"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "gettingstarted/qdrant_101"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "gettingstarted/quick_start"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "gettingstarted/install_qdrant"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/getting-started",
+                  "permalink": "/docs/category/getting-started"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "apispec"
+              },
+              {
+                "type": "category",
+                "label": "Client Libraries",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "libraries/congratulations"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "libraries/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "libraries/create-a-document"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/client-libraries",
+                  "permalink": "/docs/category/client-libraries"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Qdrant Manual",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "manual/collections"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/payload"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/points"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/search"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/filtering"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/optimizer"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/storage"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/indexing"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/distributed_deployment"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/snapshots"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/quantization"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/telemetry"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/configuration"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "manual/administration"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/qdrant-manual",
+                  "permalink": "/docs/category/qdrant-manual"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Tutorials",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorials/manage-docs-versions"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorials/translate-your-site"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/tutorials",
+                  "permalink": "/docs/category/tutorials"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Integrations",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "integrations/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "integrations/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/integrations",
+                  "permalink": "/docs/category/integrations"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "releasenotes"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/blog/welcome",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/blog/mdx-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/blog/long-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/blog/first-blog-post",
+            "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

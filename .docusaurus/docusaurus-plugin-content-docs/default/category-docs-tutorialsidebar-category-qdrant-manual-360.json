@@ -1,0 +1,15 @@
+{
+  "title": "Qdrant Manual",
+  "slug": "/category/qdrant-manual",
+  "permalink": "/docs/category/qdrant-manual",
+  "navigation": {
+    "previous": {
+      "title": "NodeJS Client",
+      "permalink": "/docs/libraries/create-a-document"
+    },
+    "next": {
+      "title": "collections",
+      "permalink": "/docs/manual/collections"
+    }
+  }
+}

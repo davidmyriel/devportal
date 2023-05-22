@@ -1,0 +1,27 @@
+{
+  "unversionedId": "libraries/create-a-blog-post",
+  "id": "libraries/create-a-blog-post",
+  "title": "Rust Client",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/libraries/create-a-blog-post.md",
+  "sourceDirName": "libraries",
+  "slug": "/libraries/create-a-blog-post",
+  "permalink": "/docs/libraries/create-a-blog-post",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/libraries/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Python Client",
+    "permalink": "/docs/libraries/congratulations"
+  },
+  "next": {
+    "title": "NodeJS Client",
+    "permalink": "/docs/libraries/create-a-document"
+  }
+}

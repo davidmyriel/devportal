@@ -1,0 +1,27 @@
+{
+  "unversionedId": "manual/storage",
+  "id": "manual/storage",
+  "title": "storage",
+  "description": "All data within one collection is divided into segments.",
+  "source": "@site/docs/manual/storage.md",
+  "sourceDirName": "manual",
+  "slug": "/manual/storage",
+  "permalink": "/docs/manual/storage",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/storage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "optimizer",
+    "permalink": "/docs/manual/optimizer"
+  },
+  "next": {
+    "title": "indexing",
+    "permalink": "/docs/manual/indexing"
+  }
+}

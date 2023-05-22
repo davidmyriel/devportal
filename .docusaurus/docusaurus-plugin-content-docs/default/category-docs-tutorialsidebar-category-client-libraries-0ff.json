@@ -1,0 +1,15 @@
+{
+  "title": "Client Libraries",
+  "slug": "/category/client-libraries",
+  "permalink": "/docs/category/client-libraries",
+  "navigation": {
+    "previous": {
+      "title": "API Specification",
+      "permalink": "/docs/apispec"
+    },
+    "next": {
+      "title": "Python Client",
+      "permalink": "/docs/libraries/congratulations"
+    }
+  }
+}

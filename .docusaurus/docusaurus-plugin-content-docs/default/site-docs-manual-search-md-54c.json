@@ -1,0 +1,27 @@
+{
+  "unversionedId": "manual/search",
+  "id": "manual/search",
+  "title": "search",
+  "description": "Similarity search",
+  "source": "@site/docs/manual/search.md",
+  "sourceDirName": "manual",
+  "slug": "/manual/search",
+  "permalink": "/docs/manual/search",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/search.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "points",
+    "permalink": "/docs/manual/points"
+  },
+  "next": {
+    "title": "filtering",
+    "permalink": "/docs/manual/filtering"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "manual/administration",
+  "id": "manual/administration",
+  "title": "administration",
+  "description": "Qdrant exposes administration tools which enable to modify at runtime the behavior of a qdrant instance without changing its configuration manually.",
+  "source": "@site/docs/manual/administration.md",
+  "sourceDirName": "manual",
+  "slug": "/manual/administration",
+  "permalink": "/docs/manual/administration",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/manual/administration.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "configuration",
+    "permalink": "/docs/manual/configuration"
+  },
+  "next": {
+    "title": "Tutorials",
+    "permalink": "/docs/category/tutorials"
+  }
+}
